@@ -2,7 +2,7 @@
 Power BI dashboard visualizing E-commerce sales data and key business metrics
 
 # Tools Used:
-Power BI for data visualization
+Power BI for data visualization and
 Excel/CSV as the data source
 
 # Project Overview:
